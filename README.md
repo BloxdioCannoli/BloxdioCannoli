@@ -30,6 +30,6 @@ Message me on Discord (coding.cannoli) for questions or coding requests :D
 ## Skillset
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,python,flask,nodejs" />
+    <img src="https://skillicons.dev/icons?i=javascript,nodejs,html,css,python,flask,c" />
   </a>
 </p>
