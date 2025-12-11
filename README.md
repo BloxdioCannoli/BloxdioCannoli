@@ -24,4 +24,8 @@
 ···············.--_--------_
 </pre>
 ---
-*I'm Bloxdio Cannoli, or codingcannoli, and I assist in Bloxd.io documentation!*
+## General
+*I'm Bloxdio Cannoli, or codingcannoli, and I assist in Bloxd.io documentation!*<br>
+Message me on Discord (coding.cannoli) for questions or coding requests :D
+## Skillset
+[Python](img.shields.io)
