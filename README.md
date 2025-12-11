@@ -1,6 +1,6 @@
 # Bloxdio Cannoli
 <div align="left">
-  <pre style="font-family: monospace; text-align: left;">
+  <pre style="font-family: monospace; text-align: left; overflow: hidden">
 ················································
 ····························--··················
 ·····················-_}%+++%%/>_···············
