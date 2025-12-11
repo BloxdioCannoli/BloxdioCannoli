@@ -28,4 +28,8 @@
 *I'm Bloxdio Cannoli, or codingcannoli, and I assist in Bloxd.io documentation!*<br>
 Message me on Discord (coding.cannoli) for questions or coding requests :D
 ## Skillset
-[Python](img.shields.io)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,python,flask" />
+  </a>
+</p>
