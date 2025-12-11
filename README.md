@@ -35,13 +35,24 @@ My skills and contact list are featured below:
   </a>
 </p>
 
+---
 ## Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=npm,bash,replit,stackoverflow,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=npm,bash,replit,stackoverflow,vscode,github,apple" />
   </a>
 </p>
 
+---
+## Additional
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c687899d-2fde-4e6e-a7a4-368024e0b976" height="45" width="45" />
+  <img alt="image" src="https://github.com/user-attachments/assets/91dfe44f-12b3-4126-9481-a95e47c007ce" height="45" width="45" />
+</p>
+
+###### Bloxdio API and Scratch
+
+---
 ## Contact
 <table>
   <tr>
@@ -113,6 +124,18 @@ My skills and contact list are featured below:
   </td>
   <td valign="center">
     @BloxdioCannoli
+  </td>
+  </tr>
+
+  <tr>
+  <td valign="center">
+    <img src="https://github.com/user-attachments/assets/cd73d59e-b4ed-4496-a88c-1c39af3a8354" height="20" width="20" alt="Bloxdhub">
+  </td>
+  <td valign="center">
+    Bloxdhub
+  </td>
+  <td valign="center">
+    @CodingCannoli
   </td>
   </tr>
 </table>
