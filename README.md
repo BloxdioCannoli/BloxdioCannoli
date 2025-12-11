@@ -28,7 +28,7 @@
 ```
 
 <p align="center">
-  <div style="font-style: monospace; text-align: left">
+  <div style="font-family: monospace; text-align: left">
 ················································
 ····························--··················
 ·····················-_}%+++%%/>_···············
