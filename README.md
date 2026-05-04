@@ -66,18 +66,6 @@ My skills and contact list are featured below:
     WanderingCannoli
   </td>
   </tr>
-  
-  <tr>
-  <td valign="center">
-    <img src="https://github.com/user-attachments/assets/e89aa886-37b8-4db7-b8f1-8050881fca44" height="20" width="20" alt="Gmail">
-  </td>
-  <td valign="center">
-    Gmail
-  </td>
-  <td valign="center">
-    coding.cannoli@gmail.com
-  </td>
-  </tr>
 
   <tr>
   <td valign="center">
