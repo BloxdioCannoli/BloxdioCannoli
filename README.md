@@ -46,8 +46,7 @@ My skills and contact list are featured below:
 ---
 ## Additional
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c687899d-2fde-4e6e-a7a4-368024e0b976" height="45" width="45" />
-  <img alt="image" src="https://github.com/user-attachments/assets/91dfe44f-12b3-4126-9481-a95e47c007ce" height="45" width="45" />
+  <img src="https://github.com/user-attachments/assets/c687899d-2fde-4e6e-a7a4-368024e0b976" height="45" width="45" /> <img alt="image" src="https://github.com/user-attachments/assets/91dfe44f-12b3-4126-9481-a95e47c007ce" height="45" width="45" />
 </p>
 
 ###### Bloxdio API and Scratch
