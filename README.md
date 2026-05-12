@@ -106,7 +106,7 @@ My bio, skills, and contact info are featured below:
 
   <tr>
   <td valign="center">
-    <img src="https://github.com/user-attachments/assets/905507fe-c30a-446f-b0ad-00977283523f" height="18" width="20" alt="YouTube">
+    <img src="https://github.com/user-attachments/assets/905507fe-c30a-446f-b0ad-00977283523f" height="20" width="20" alt="YouTube">
   </td>
   <td valign="center">
     YouTube
