@@ -24,9 +24,10 @@
 ···············.--_--------_
 </pre>
 ---
-## About Me
+## Welcome! <img width="50" height="50" alt="wave" src="https://github.com/user-attachments/assets/b545e196-cfc6-4985-81fe-2fa1c4a379ae" />
+
 *I'm Bloxdio Cannoli, or codingcannoli, and I assist in Bloxd.io documentation!*<br>
-My skills and contact list are featured below:
+My bio, skills, and contact info are featured below:
 
 ## Skillset
 <p align="center">
