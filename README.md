@@ -24,7 +24,7 @@
 ···············.--_--------_
 </pre>
 ---
-## Welcome! <img width="50" height="50" alt="wave" src="https://github.com/user-attachments/assets/b545e196-cfc6-4985-81fe-2fa1c4a379ae" />
+## Welcome! <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="50">
 
 *I'm Bloxdio Cannoli, or codingcannoli, and I assist in Bloxd.io documentation!*<br>
 My bio, skills, and contact info are featured below:
