@@ -46,7 +46,7 @@ My skills and contact list are featured below:
 ---
 ## Additional
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c687899d-2fde-4e6e-a7a4-368024e0b976" height="45" width="45" /> <img alt="image" src="https://github.com/user-attachments/assets/91dfe44f-12b3-4126-9481-a95e47c007ce" height="45" width="45" /> <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/6b3512b0-368f-4204-9f6b-8ac61e176efc" height="45" width="45" /> <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/143e8719-81e4-4f2e-917a-18562163b234" />
+  <img src="https://github.com/user-attachments/assets/c687899d-2fde-4e6e-a7a4-368024e0b976" height="45" width="45" /> <img alt="image" src="https://github.com/user-attachments/assets/91dfe44f-12b3-4126-9481-a95e47c007ce" height="45" width="45" /> <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/6b3512b0-368f-4204-9f6b-8ac61e176efc" height="45" width="45" /> <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/143e8719-81e4-4f2e-917a-18562163b234" height="45" width="45" />
 
 
 </p>
