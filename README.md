@@ -26,8 +26,15 @@
 ---
 ## Welcome! <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="20">
 
-*I'm Bloxdio Cannoli, or codingcannoli, and I assist in Bloxd.io documentation!*<br>
+*I'm Bloxdio Cannoli, or codingcannoli!*<br>
 My bio, skills, and contact info are featured below:
+
+## What I do:
+- I moderate r/Bloxd and develop its bot.
+- I support in Bloxd.io documentation and the coding community.
+- I create technical-focused videos relating to coding, the Bloxd community, or general Bloxd content on my YT channel.
+- I assist in coding for anyone on r/Bloxd!
+- I provide high-quality 3D thumbnails and lobbies for buyers.
 
 ## Skillset
 <p align="center">
