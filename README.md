@@ -35,6 +35,8 @@ My skills and contact list are featured below:
   </a>
 </p>
 
+###### HTML/CSS/JavaScript (+ TypeScript, Node.js, JQuery), Python (+ Flask, Pygame), C, MongoDb, Markdown
+
 ---
 ## Tools
 <p align="center">
@@ -42,6 +44,8 @@ My skills and contact list are featured below:
     <img src="https://skillicons.dev/icons?i=npm,bash,replit,stackoverflow,vscode,github,apple" />
   </a>
 </p>
+
+###### NPM, Bash, Replit, Stack Overflow, VSCode, Github, Apple
 
 ---
 ## Additional
