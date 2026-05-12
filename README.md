@@ -31,7 +31,7 @@ My skills and contact list are featured below:
 ## Skillset
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,nodejs,html,css,python,flask,c,mongodb,markdown" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,html,css,python,flask,c,mongodb,markdown" />
   </a>
 </p>
 
