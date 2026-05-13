@@ -39,11 +39,11 @@ My bio, skills, and contact info are featured below:
 ## Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,html,css,python,flask,c,mongodb,markdown" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,html,css,python,flask,c,mongodb,markdown,java" />
   </a>
 </p>
 
-###### HTML/CSS/JavaScript (+ TypeScript, Node.js, JQuery), Python (+ Flask, Pygame), C, MongoDb, Markdown
+###### HTML/CSS/JavaScript (+ TypeScript, Node.js, JQuery), Python (+ Flask, Pygame), C, MongoDb, Markdown, Java
 
 ---
 
