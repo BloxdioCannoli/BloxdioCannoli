@@ -137,7 +137,7 @@ My bio, skills, and contact info are featured below:
     Bloxdhub
   </td>
   <td valign="center">
-    @CodingCannoli
+    @Cannoli
   </td>
   </tr>
 </table>
