@@ -30,6 +30,7 @@
 My bio, skills, and contact info are featured below:
 
 ## What I do:
+- I help out with the BCOP [GitHub org](https://github.com/BloxdCodingOverhaulProject) as well as the Discord server.
 - I moderate r/Bloxd and develop its bot.
 - I support in Bloxd.io documentation and the coding community.
 - I create technical-focused videos relating to coding, the Bloxd community, or general Bloxd content on my YT channel.
